@@ -1,0 +1,27 @@
+# Gitignore for c-systems-fundamentals
+# Documentation: https://git-scm.com/docs/gitignore
+
+# Object files
+*.o
+
+# Binary files
+*.bin
+
+# Executables
+exercise
+
+# Temporary or backup files
+*~
+*.temp
+*.tmp
+*.bak
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
